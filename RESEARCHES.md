@@ -9,3 +9,7 @@ https://stackoverflow.com/questions/54126343/how-to-fix-unchecked-runtime-laster
 https://www.google.com/search?q=compiler.js%3A2175+Uncaught+Error%3A+Template+parse+errors%3A+Can%27t+bind+to+%27stock%27+since+it+isn%27t+a+known+property+of+%27summary%27.&oq=compiler.js%3A2175+Uncaught+Error%3A+Template+parse+errors%3A+Can%27t+bind+to+%27stock%27+since+it+isn%27t+a+known+property+of+%27summary%27.&aqs=chrome..69i57.1950j0j7&sourceid=chrome&ie=UTF-8
 
 https://github.com/angular/angular/issues/22795
+
+## useful
+
+https://stackoverflow.com/questions/41714563/error-template-parse-errors-cant-bind-to-myproperty-since-it-isnt-a-known
