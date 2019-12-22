@@ -4,6 +4,8 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
+import { FormsModule } from '@angular/forms';
+
 import { HttpClientModule } from '@angular/common/http';
 import { StocksService } from './services/stocks.service';
 import { SummaryComponent } from './components/summary/summary.component';
@@ -20,7 +22,8 @@ import { ManageComponent } from './components/manage/manage.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [StocksService],
   bootstrap: [AppComponent]
