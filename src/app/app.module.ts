@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { AppRoutingModule } from './app-routing.module';
+import { AppRoutingModule, RoutingComponent } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { FormsModule } from '@angular/forms';
@@ -17,7 +17,8 @@ import { ManageComponent } from './components/manage/manage.component';
     AppComponent,
     SummaryComponent,
     DashboardComponent,
-    ManageComponent
+    ManageComponent,
+    RoutingComponent
   ],
   imports: [
     BrowserModule,
